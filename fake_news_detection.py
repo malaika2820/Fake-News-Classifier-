@@ -16,7 +16,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
 df = pd.read_csv('final_news_dataset.csv', usecols=[
-    'title', 'content', 'label'], engine = 'python', encoding='latin1')
+    'title', 'content', 'label'], encoding='latin1')
 df.dropna(inplace=True)
 
 # ----------------- Our ML model --------------------
