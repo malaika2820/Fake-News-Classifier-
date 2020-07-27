@@ -115,4 +115,4 @@ def extract_features_for_scraped_input(news):
     test_feature_set = vectorizer.transform(news)
     return test_feature_set
 
-
+joblib.dump(mnb, 'model.pkl')
