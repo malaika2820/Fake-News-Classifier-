@@ -48,7 +48,6 @@ pyasn1-modules==0.2.8
 pycryptodome==3.9.8
 pyparsing==2.4.7
 pyperclip==1.8.0
-pypiwin32==223
 Pyrebase4==4.3.0
 PySimpleGUI==4.24.0
 pytesseract==0.3.4
@@ -56,7 +55,6 @@ python-dateutil==2.8.1
 python-jwt==2.0.1
 pyttsx3==2.90
 pytz==2020.1
-pywin32==228
 PyYAML==5.3.1
 regex==2020.7.14
 requests==2.24.0
