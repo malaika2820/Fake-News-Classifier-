@@ -23,7 +23,7 @@ def get_vocab(file):
 
 
 if __name__ == "__main__":
-    df = pd.read_csv('final_news_dataset.csv', usecols=[
+    df = pd.read_csv('alternate.csv', usecols=[
                      'title', 'content', 'label'], encoding='latin1')
     df.dropna(inplace=True)
     df['text'] = df['title'] + df['content']
