@@ -47,6 +47,6 @@ Send POST requests at '/predict' to get a JSON response of:
 ```
 ## Authors
 
-- [Tania Malhotra](github.com/TaniaMalhotra)
-- [Malaika Agrawal](github.com/malaika2820)
-- [Vallari Agrawal](github.com/vallariag)
+- [Tania Malhotra](https://github.com/TaniaMalhotra)
+- [Malaika Agrawal](https://github.com/malaika2820)
+- [Vallari Agrawal](https://github.com/vallariag)
